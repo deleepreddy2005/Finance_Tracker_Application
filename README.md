@@ -1,3 +1,4 @@
+
 # Finance_Tracker_Application
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
